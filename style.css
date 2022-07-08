@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald|Permanent+Marker');
+body {
+  margin: 0;
+  background-color: grey;
+}
+
+h1, h3 {
+  color: white;
+  font-size: 14px;
+  text-align:center;
+}
+
+ul  {
+    width: 5%;
+    margin: auto;
+	
+}
+
+ol  {
+    width: 20%;
+    margin: auto;
+	text-align:left;
+}
+
+section, h2{
+	color:black;
+	font-size:14px;
+	text-align:center;
+	
+}
+
+h1{
+	color:white;
+	font-size:25px;
+}
+
+Header{
+	height:80px;
+	margin-top:5px;
+	padding-top: 2px;
+	background-color: #616A6B;
+	
+}
+
+footer{
+	background-color: #616A6B;
+	text-align:center;
+	font-size:12px;
+	margin-top:10px;
+	padding-top:5px;
+	height:40px;
+}
+#googleMap {
+  height: 400px;
+  width: 20%;
+ 
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  height:400px;
+}
